@@ -1,3 +1,3 @@
-# GPA-CGPA-Calculator
-C language 
-Allow user to choose what language they prefer
+# C language
+  -GPA/CGPA Calculator
+  -Train Reservation System
